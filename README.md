@@ -27,7 +27,7 @@
 
 ## Overview
 
-Alp's Creative Building Modpack is a client-side Fabric modpack for Minecraft 1.21.5, meticulously curated to enhance the creative building experience. It focuses on delivering high performance, stunning visuals through shader support, and a comprehensive suite of building tools, all while remaining compatible with vanilla servers. This pack is ideal for builders who want a performance-optimized and visually enriched environment without altering core gameplay mechanics.
+Alp's Creative Building Modpack is a client-side Fabric modpack for Minecraft 1.21.X, meticulously curated to enhance the creative building experience. It focuses on delivering high performance, stunning visuals through shader support, and a comprehensive suite of building tools, all while remaining compatible with vanilla servers. This pack is ideal for builders who want a performance-optimized and visually enriched environment without altering core gameplay mechanics.
 
 ---
 
